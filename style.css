@@ -1,0 +1,29 @@
+body{  
+    background-color: #FFE2E2;
+    color: #8785A2;
+}
+
+h1{
+    font-family: "Playwrite HR", cursive;
+    font-size: 3rem;
+}
+
+.container{
+    border: 5px solid #8785A2;
+    text-align: center;
+    width:70%;
+    margin: 100px auto;
+    padding: 30px;
+}
+
+.yours{
+    margin-top: 120px;
+    text-align: right;
+}
+h3{
+   margin:8px;
+}
+
+.date{
+    margin-top: 0;
+}
